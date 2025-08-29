@@ -17,8 +17,9 @@ To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
 
-answer questoom
+answer queston Part 3
 1.The object moves down twice
 2.The object moves down three times
 3.Stay invisible
 4.When i specified a color that wasnt known it didnt work
+5.It doesnt work
