@@ -23,3 +23,5 @@ answer queston Part 3
 3.Stay invisible
 4.When i specified a color that wasnt known it didnt work
 5.It doesnt work
+
+answer questions Part 4
